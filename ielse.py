@@ -129,7 +129,7 @@
 
 
 # masala 20
-
+son = int(input())
 
 
 
